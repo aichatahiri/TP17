@@ -1,0 +1,5 @@
+module.exports = [
+  { id: 1, name: 'Ali', salary: 9000 },
+  { id: 2, name: 'Kamal', salary: 22000 },
+  { id: 3, name: 'Amal', salary: 23000 }
+];
